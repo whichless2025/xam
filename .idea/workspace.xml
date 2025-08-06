@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="06398345-7fd7-4d1a-8125-1a7e3842693d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruoyi-framework/src/main/java/com/ruoyi/framework/datasource/xinaomen.zip" beforeDir="false" afterPath="$PROJECT_DIR$/ruoyi-framework/src/main/java/com/ruoyi/framework/datasource/xinaomen.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754470496562</updated>
-      <workItem from="1754470497554" duration="1928000" />
+      <workItem from="1754470497554" duration="2876000" />
     </task>
     <servers />
   </component>
