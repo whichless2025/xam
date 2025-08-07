@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06398345-7fd7-4d1a-8125-1a7e3842693d" name="Changes" comment="" />
+    <list default="true" id="06398345-7fd7-4d1a-8125-1a7e3842693d" name="Changes" comment="代码提交">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,8 +92,33 @@
       <option name="presentableId" value="Default" />
       <updated>1754470496562</updated>
       <workItem from="1754470497554" duration="3831000" />
-      <workItem from="1754534090435" duration="3629000" />
+      <workItem from="1754534090435" duration="6447000" />
     </task>
+    <task id="LOCAL-00001" summary="代码提交">
+      <option name="closed" value="true" />
+      <created>1754544906815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754544906815</updated>
+    </task>
+    <task id="LOCAL-00002" summary="代码提交">
+      <option name="closed" value="true" />
+      <created>1754546711001</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754546711001</updated>
+    </task>
+    <task id="LOCAL-00003" summary="代码提交">
+      <option name="closed" value="true" />
+      <created>1754554712078</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754554712078</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,5 +146,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="代码提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码提交" />
   </component>
 </project>
